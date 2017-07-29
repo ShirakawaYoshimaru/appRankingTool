@@ -1,0 +1,25 @@
+# Laravel
+/storage/app
+/storage/http
+/storage/logs
+/vendor
+/.env
+
+# Vagrant
+/.vagrant
+Vagrantfile
+
+# MacOS
+.DS_Store
+
+# PhpStorm
+.idea
+/resources/vendor/ide-helper/.phpstorm.meta.php
+/resources/vendor/ide-helper/helper.php
+/resources/vendor/php-cs-fixer/.php_cs.cache
+
+# vi
+*.swp
+
+# SublimeText
+*.sublime-workspace
