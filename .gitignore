@@ -3,7 +3,6 @@
 /storage/http
 /storage/logs
 /vendor
-/.env
 
 # Vagrant
 /.vagrant
